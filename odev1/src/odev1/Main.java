@@ -69,7 +69,7 @@ public class Main {
 		for (Course course : courses) {
 			System.out.println(course.courseName);
 			System.out.println(course.instructor);
-			System.out.println("%"+course.completed+" Tamamlandý");
+			System.out.println("%"+course.completed+" Tamamlandi");
 			System.out.println("----------------------------------------------------------------------");
 		}
 		
